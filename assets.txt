@@ -25,7 +25,6 @@ ValInt|HV-DAY-H9Wb-1cEO|Day|Public
 ValInt|HV-DAY-AZXU-tUoe|Day|Public
 ValInt|HV-WEEK-ltKn-VK9a|Week|Public
 Danilhexguy|HV-DAY-N3G0-9m5e|Day|Public
-
 DanilHex|HV-DAY-RWN7-BGOf|Day|Public
 DanilHex|HV-DAY-ARWJ-KlD1|Day|Public
 DanilHex|HV-DAY-zhC7-YnAO|Day|Public
@@ -91,7 +90,6 @@ DanilHex|HV-DAY-TgGL-eJiS|Day|Public
 DanilHex|HV-DAY-39Jv-vKA2|Day|Public
 DanilHex|HV-DAY-2xDc-6njm|Day|Public
 DanilHex|HV-DAY-81qm-oMVr|Day|Public
-
 DanilHex|HV-DAY-3p1O-3vJE|Day|Public
 DanilHex|HV-DAY-GNfz-UNSH|Day|Public
 DanilHex|HV-WEEK-DwSk-DXd6|Week|Public
