@@ -142,3 +142,5 @@ DanilHex|57c6fb83-05d6-8315-e6f4-b9704a8e36cd|Day|Public
 DanilHex|9537c1e6-136e-74da-b0c6-6839ba70214d|Day|Public
 DanilHex|cb12f493-ea61-ad5b-b9fe-695218c4f3ae|Day|Public
 DanilHex|7e49f8bd-2c50-dfeb-8365-9dcfa2730685|Day|Public
+
+SwrPrivate|59b1e8d3-1942-b314-1f7b-d4e086a32c5b|Day|Public
