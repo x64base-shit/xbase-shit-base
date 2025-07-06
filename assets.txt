@@ -147,3 +147,4 @@ SwrPrivate|26ed3bf0-c56e-26d7-d678-f07ca2b35419|Lifetime|Public
 SwrPrivate|2b65e780-bf42-8c9e-3508-960f2d1483ac|Lifetime|Public
 SwrPrivate|a782f9eb-4a10-7e42-a3b0-5ab601ce3274|Lifetime|Public
 XamPrivate|5f93820d-c173-98f4-e013-6db051e923a8|Lifetime|Public
+SwrPrivate|5cd18f40-5fe3-a546-9625-a854e3f19260|Lifetime|Public
