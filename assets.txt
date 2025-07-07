@@ -150,3 +150,4 @@ XamPrivate|5f93820d-c173-98f4-e013-6db051e923a8|Lifetime|Public
 SwrPrivate|5cd18f40-5fe3-a546-9625-a854e3f19260|Lifetime|Public
 SwrPrivate|f8dc530e-7065-dbae-84bf-81f40d3e5926|Lifetime|Public
 XamPrivate|a69c8501-8e4f-80dc-214b-0ec241af8b97|Lifetime|Public
+SwrPrivate|19d82a74-9be5-f2a7-23b5-ad4652e1b37c|Day|Public
