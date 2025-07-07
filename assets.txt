@@ -158,3 +158,4 @@ SwrPrivate|46de83f2-81d2-908b-d630-1c89e07a3b54|Day|Public
 SwrPrivate|c5b91d76-1dcf-d510-069d-614f9037beda|Day|Public
 SwrPrivate|fa4e3cd8-e34f-289f-652d-3fce718d4259|Day|Public
 SwrPrivate|046b138c-03b4-5fc0-b749-2b7c6d914e8a|Week|Public
+SwrPrivate|9dae7c30-f104-0f78-26f0-87135fc4a269|Week|Public
