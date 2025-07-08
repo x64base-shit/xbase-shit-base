@@ -160,3 +160,4 @@ SwrPrivate|fa4e3cd8-e34f-289f-652d-3fce718d4259|Day|Public
 SwrPrivate|046b138c-03b4-5fc0-b749-2b7c6d914e8a|Week|Public
 SwrPrivate|9dae7c30-f104-0f78-26f0-87135fc4a269|Week|Public
 SwrPrivate|3f75e4a6-365a-7829-b13d-fc65b80314ea|Week|Public
+XamPrivate|eb29c316-f329-d794-4eb9-3f679d1245ce|Week|Public
