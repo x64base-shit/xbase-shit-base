@@ -175,3 +175,4 @@ XamPrivate|7c43a518-da1e-a8ef-5381-b397d61450c8|Month|Public
 XamPrivate|f41c0e37-348e-52fd-eb42-970db18ef462|Month|Public
 SwrPrivate|20afcb7e-083c-e29d-b02d-a3c9516d84e0|Day|Public
 SwrPrivate|df905231-512f-9672-f635-067ab1edf9c2|Week|Public
+SwrPrivate|a759c6f8-0a4d-7812-497e-d8cb3f92ae04|Week|Public
