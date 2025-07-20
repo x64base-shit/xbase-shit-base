@@ -199,3 +199,4 @@ SwrPrivate|c1ef38d6-6c89-0f2b-bf96-fa13e709b25c|Week|Public
 SwrPrivate|54fe97b6-3fe4-e0a7-69fc-a7cf610854bd|Day|Public
 ResuPrivate|fc10698a-2954-07ef-53e2-82acd7b4fe30|Week|Public
 ResuPrivate|f46adbe7-ae5b-3081-736b-7df64c9125a0|Week|Public
+ResuPrivate|7854ed10-fda8-3549-5f0d-eba495f26d31|Lifetime|Public
