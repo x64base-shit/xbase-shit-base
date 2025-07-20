@@ -195,3 +195,4 @@ SwrPrivate|b9014562-7ca3-0198-6f29-a31ebd0f4c82|Day|Public
 SwrPrivate|f8204697-40fa-8532-e8f7-1fa524b0c387|Day|Public
 SwrPrivate|59b1e8d3-1942-b314-1f7b-d4e086a32c5b|Day|Public
 SwrPrivate|9028e76f-671d-ba1c-425e-5e640d13a7fc|Week|Public
+SwrPrivate|c1ef38d6-6c89-0f2b-bf96-fa13e709b25c|Week|Public
