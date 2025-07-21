@@ -1,4 +1,4 @@
-frezy:frezy224:opened:frezy:0.00:https://cdn.anisearch.com/images/character/cover/81/81987_400.webp:Plus:30
+frezy:frezy224:opened:frezy:0.00:https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTKhteSEJQRN2ll0gwLin2bf2VhexlufOF5g&s:Plus:30
 user1:password1:opened:eggwick:0.00:https://media.discordapp.net/attachments/1360743867967733932/1360743930324455584/avatar1933479_2.gif?ex=6847608a&is=68460f0a&hm=7938cd7431912935c26884d1c8988adaa3492a768f6a5d616a22d9160488a4cf&=:Plus,Perm:49
 gratian:test123:opened:gratian:0.00:https://media.discordapp.net/attachments/1360743867967733932/1360743930324455584/avatar1933479_2.gif?ex=6847608a&is=68460f0a&hm=7938cd7431912935c26884d1c8988adaa3492a768f6a5d616a22d9160488a4cf&=:Plus:55
 ValPrivacy:ValPrivacy:opened:Valprivacy:0.00:https://media.discordapp.net/attachments/1360743867967733932/1360743930324455584/avatar1933479_2.gif?ex=6847608a&is=68460f0a&hm=7938cd7431912935c26884d1c8988adaa3492a768f6a5d616a22d9160488a4cf&=:Plus:13
