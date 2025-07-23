@@ -205,3 +205,4 @@ ResuPrivate|3e4f82d7-2365-a9d7-2b41-079ed38f5cb6|Month|Public
 ResuPrivate|5df9a68c-184d-b063-a97e-c5764320adbe|Month|Public
 ResuPrivate|8247fba5-57b8-6295-0fae-81b5a6e4239c|Week|Public
 ResuPrivate|4a2fe780-eb62-9a8f-71ad-873502d19bfe|Week|Public
+ResuPrivate|f47e3c59-5ab0-c84d-1a0f-df38245c7ae6|Week|Public
