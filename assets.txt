@@ -238,3 +238,4 @@ ResuPrivate|54328b7a-54e8-165a-3cf7-2957e0fab8c4|Week|Public
 ResuPrivate|b846ac1f-b6a7-8c47-e3dc-c9f5104376bd|Day|Public
 ResuPrivate|3b2a5d10-d234-cbea-8fad-a085497f36e2|Week|Public
 SwrPrivate|07ca69b4-52b4-941e-7510-a8ec296745f0|Lifetime|Public
+SwrPrivate|0d56192b-9362-168a-a01b-843061a9c75d|Lifetime|Public
