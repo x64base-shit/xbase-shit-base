@@ -244,3 +244,4 @@ SwrPrivate|96ae1248-c796-a7c0-52a8-d1428c956ebf|Week|Public
 SwrPrivate|4813af90-5f90-68d4-ec70-ca43f59286ed|Month|Public
 SwrPrivate|e8a01b25-95be-26e0-0196-bd391804f2e6|Month|Public
 SwrPrivate|f14bd702-7240-2b85-89d0-27a8b564fe39|Month|Public
+SwrPrivate|695287ad-c092-be6d-476a-e49f27bd81c6|Lifetime|Public
