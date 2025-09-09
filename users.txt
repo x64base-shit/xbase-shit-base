@@ -9,4 +9,4 @@ SwrPrivate:912935c2688:opened:SwrPrivate:30.00:https://i.postimg.cc/ydxNDxzg/ava
 Xam:912923c2633:opened:XamPrivate:370.00:https://i.postimg.cc/ydxNDxzg/avatar1933479-2.jpg:Public:5
 NexusPrivate:912923c2636:opened:NexusPrivate:99969.00:https://i.postimg.cc/ydxNDxzg/avatar1933479-2.jpg:Public:0
 Resuprivate:912935c2646:opened:ResuPrivate:975.00:https://i.postimg.cc/ydxNDxzg/avatar1933479-2.jpg:Public:0
-Quantumprivate:912936c2646:opened:Quantumprivate:9975.00:https://i.postimg.cc/ydxNDxzg/avatar1933479-2.jpg:Public:15
+Quantumprivate:912936c2646:opened:Quantumprivate:9960.00:https://i.postimg.cc/ydxNDxzg/avatar1933479-2.jpg:Public:15
