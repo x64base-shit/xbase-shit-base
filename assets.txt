@@ -249,3 +249,4 @@ SwrPrivate|a53b1c69-238a-6b17-7b16-a4510ecd723f|Day|Public
 Quantumprivate|569f3c7b-57c4-08e9-01c3-94f25ce3d70b|Day|Public
 Quantumprivate|0624c8af-e84b-b14a-d732-fc8b32a1e906|Day|Public
 Quantumprivate|f1560c43-0d4b-e984-d17a-e794fc2036db|Day|Public
+Quantumplus|f0b8798ebd0afde4|Lifetime|Plus
