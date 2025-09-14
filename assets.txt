@@ -261,3 +261,4 @@ Quantumprivate|312b659c-36e7-4783-dbe0-834e092dac57|Lifetime|Public
 Quantumplus|cf20b4d458b07fc6|Lifetime|Plus
 Quantumplus|28917f5a14287b92|Lifetime|Plus
 Quantumplus|667aeb51459a1f09|Lifetime|Plus
+Quantumprivate|50679432-718f-aef4-6c2a-061a5f92843e|Month|Public
