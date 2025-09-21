@@ -275,3 +275,4 @@ Quantumprivate|2ad86ce3-a810-b2d9-634f-0e834a6bf591|Lifetime|Public
 Quantumprivate|3746d5ce-6a12-9542-9367-46bdf38e0125|Week|Public
 Quantumplus|7f4d88f514b0fdae|Day|Plus
 Quantumplus|2da6546a2b8d737c|Day|Plus
+Quantumplus|c7755eb083722f2f|Month|Plus
